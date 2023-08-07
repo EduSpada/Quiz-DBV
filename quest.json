@@ -1,0 +1,440 @@
+{
+    "ami": 
+        {
+            "0":
+                {
+                    "quest": "Qual é o Voto do Desbravador?",
+                    "resp": " Pela graça de Deus, serei puro, bondoso e leal; guardarei a lei do Desbravador, serei servo de Deus e amigo de todos."
+                },
+            "1":
+                {
+                    "quest": "Recite a Lei do Desbravador:",
+                    "resp": "A lei do Desbravador ordena-me: Observar a devoção matinal; Cumprir fielmente a parte que me corresponde; Cuidar de meu corpo; Manter a consciência limpa; Ser cortês e obediente; Andar com reverência na casa de Deus; Ter sempre um cântico no coração; Ir aonde Deus mandar"
+                },
+            "2":
+                {
+                    "quest": "O que Deus criou no 4º dia?",
+                    "resp": "Sol, Lua e Estrelas."
+                },
+            "3":
+                {
+                    "quest": "Qual foi a 1ª praga do Egito?",
+                    "resp": "As águas tornam-se em sangue."
+                },
+            "4":
+                {
+                    "quest": "Qual foi a 3ª praga do Egito?",
+                    "resp": "Piolhos."
+                },
+            "5":
+                {
+                    "quest": "Cite pelo menos 5 tribos de Israel",
+                    "resp": "Rúben, Simeão, Judá, Zebulom, Issacar, Dã, Gade, Aser, Naftali, Benjamim, Manassés e Efraim."
+                },
+            "6":
+                {
+                    "quest": "Para que serve o nó direito?",
+                    "resp": "O nó direito serve para unir dois cabos de diametros iguais que não sejam lisos."
+                },
+            "7":
+                {
+                    "quest": "Para que serve o nó cirurgião?",
+                    "resp": "Esse nó é muito usado em casos extremos, onde se necessite fazer uma sutura em um corte, e também para manter unidas as partes da sutura."
+                },
+            "8":
+                {
+                    "quest": "Para que serve o nó simples?",
+                    "resp": "Este nó é a base para outros nós, e por se tratar apenas de uma volta é o nó mais fácil e rápido de ser feito, não é muito usado por marinheiros pois quando molhado ou quando é submetido a muita tensão fica difícil de ser desatado."
+                },
+            "9":
+                {
+                    "quest": "Para que serve o nó cego?",
+                    "resp": "Esse nó deve ser aprendido para nunca ser usado, é um nó que quando solicitado, pode alternar sua resposta e funcionamento, ora pode ser instável e desatar com facilidade, ora pode ser muito difícil de desfazer, tornando-se um nó inseguro, sem aplicação prática."
+                },
+            "10":
+                {
+                    "quest": "Para que serve o nó lais de guia?",
+                    "resp": "Muito útil para içar animais, pessoas ou objetos de modo que não aperte quando submetido a tenção, após o uso é fácil de desmanchar o nó, em cordas muito rijas não tem utilidade pois as voltas não se acomodam e não oferece segurança."
+                },
+            "11":
+                {
+                    "quest": "Para que serve o nó lais de guia duplo?",
+                    "resp": "O nó Lais de Guia Duplo é um dos nós de aperto típicos na escalada."
+                },
+            "12":
+                {
+                    "quest": "Para que serve o nó escota?",
+                    "resp": "Unir cabos de diferentes diâmetros."
+                },
+            "13":
+                {
+                    "quest": "Para que serve o nó catal?",
+                    "resp": "Utiliza-se para reduzir o comprimento de uma corda sem cortá-la. Serve também para isolar alguma parte danificada da corda, sem deixá-la sob tensão."
+                },
+            "14":
+                {
+                    "quest": "Para que serve o nó pescador?",
+                    "resp": "Unir cordas lisas como linhas de pesca, seda e etc."
+                },
+            "15":
+                {
+                    "quest": "Para que serve o nó fateixa?",
+                    "resp": "Nó que se faz para firmar um cabo em uma barra, num arganéu, para amarrações firmes, ou para render a fateixa, que é âncora pequena como argola. O nó consiste em uma volta redonda com cotes, passando o primeiro por uma volta, para não apertar. Para fixar uma corda em um tronco, espeque ou argola, resiste bem a tensão é bem simples de fazer e fácil de desatar, muito utilizado na navegação para atracar barcos no cais."
+                },
+            "16":
+                {
+                    "quest": "Para que serve o nó volta do fiel?",
+                    "resp": "Nó inicial de algumas amarras. Não corre lateralmente e suporta bem a tensão. Permite amarrar a corda a um ponto fixo."
+                },
+            "17":
+                {
+                    "quest": "Para que serve o nó volta da ribeira?",
+                    "resp": "Utilizado para prender uma corda a um bastão (tronco, galhos, etc.) depois mantê-la sob tensão e iniciar a amarra diagonal."
+                },
+            "18":
+                {
+                    "quest": "O que significa PASOCOLA?",
+                    "resp": "PARE, ACALME-SE, SENTE-SE, ORE, COMA ORIENTE-SE, LEMBRE-SE E ANDE."
+                },
+            "19":
+                {
+                    "quest": "O que é um exercício aeróbico?",
+                    "resp": " São exercícios onde predomina o fornecimento de energia por processos metabólicos que envolvem o consumo de oxigênio. São atividades continuas e de baixa ou média intensidade. Por exemplo: correr, pedalar, nadar, todos por médias e longas distâncias. Para que esse exercício seja possível ocorre um processo no corpo chamado de steady state, onde equilíbrio entre a captação e transporte e a utilização do oxigênio na musculatura."
+                },
+            "20":
+                {
+                    "quest": "Para que serve o nó Ordinário?",
+                    "resp": "Serve para unir dois cabos grossos ou de aço."
+                }
+        },
+    "com": 
+        {
+            "0":
+                {
+                    "quest": "Qual é o voto do Desbravador?",
+                    "resp": "Pela graça de Deus, serei puro, bondoso e leal, guardarei a lei dos Desbravadores, serei um servo de Deus e amigo de todos."
+                },
+            "1":
+                {
+                    "quest": "Qual é o nome do livro de leitura do ano?",
+                    "resp": "Um desafio atrás do outro."
+                },
+            "2":
+                {
+                    "quest": "Qual é o primeiro mandamento da Lei de Deus?",
+                    "resp": "Não terão outros deuses diante de mim."
+                },
+            "3":
+                {
+                    "quest": "Cite os 5 primeiros mandamentos da Lei de Deus.",
+                    "resp": "1. Não terão outros deuses diante de mim; 2. Não farás para ti imagem de escultura; 3. Não tomarás o nome do Senhor teu Deus em vão; 4. Lembra-te do dia do sábado para o santificar; 5. Honra a teu pai e a tua mãe."
+                },
+            "4":
+                {
+                    "quest": "Cite quais são os quatro primeiros livros do Novo testamento.",
+                    "resp": "Mateus, Marcos, Lucas, João."
+                },
+            "5":
+                {
+                    "quest": "Qual é o livro profético do Novo Testamento?",
+                    "resp": "Apocalipse."
+                },
+            "6":
+                {
+                    "quest": "Cite 6 livros do Novo Testamento.",
+                    "resp": "Mateus; Marcos; Lucas; João; Atos dos Apóstolos; Romanos; 1 Coríntios; 2 Coríntios; Gálatas; Efésios; Filipenses; Colossenses; 1 Tessalonicenses; 2 Tessalonicenses; 1 Timóteo; 2 Timóteo; Tito; Filemon; Hebreus; Tiago; 1 Pedro; 2 Pedro; 1 João; 2 João; 3 João; Judas; Apocalipse."
+                },
+            "7":
+                {
+                    "quest": "Cite alguns benefícios de praticar atividade física para uma vida saudável.",
+                    "resp": "Redução da gordura corporal, aumento da massa muscular, fortalecimento dos músculos, flexibilidade, redução da frequência cardíaca de repouso e da pressão arterial, diminuição do estresse e ansiedade, melhora da qualidade do sono e etc."
+                },
+            "8":
+                {
+                    "quest": "O que significa Aptidão Física?",
+                    "resp": "Aptidão física é definida como a capacidade de executar trabalhos musculares de maneira satisfatória. Abrange a resistência cardiorrespiratória, a força, a resistência muscular e a flexibilidade."
+                },
+            "9":
+                {
+                    "quest": "Cite pelo menos 3 prejuízos do cigarro à saúde.",
+                    "resp": "O fumo é causa direta de mortes por doença pulmonar obstrutiva crônica (bronquite e enfisema), por diversos tipos de câncer (pulmão, boca, laringe, faringe, esôfago, pâncreas, rim, bexiga, colo de útero, estômago e fígado), por doença coronariana (angina e infarto), cerebrovasculares (acidente vascular cerebral). Também aumenta o risco para desenvolver outras doenças, como tuberculose, infecções respiratórias, úlcera gastrintestinal, impotência sexual, infertilidade em mulheres e homens, osteoporose, catarata, entre outras."
+                },
+            "10":
+                {
+                    "quest": "Como escolher um bom local para armar uma barraca de acampamento",
+                    "resp": "Ao montar uma barraca se deve evitar montar embaixo de árvores para não correr o risco de cair um galho e rasgar a barraca, montar com a porta contra o vento, para melhor manutenção da barraca, devemos observar e preparar o local onde ela será montada, desde o chão tirando os detritos que podem danificar a barraca até a direção do vento, pois ele pode trazer faíscas da fogueira em direção da barraca e causa um grave acidente. Não fazer fogo muito próximo a barracas."
+                },
+            "11":
+                {
+                    "quest": "O que Deus criou no primeiro dia da Criação?",
+                    "resp": "Deus separou a luz das trevas."
+                },
+            "12":
+                {
+                    "quest": "O que Deus criou no segundo dia da Criação?",
+                    "resp": "Deus separou o céu das águas."
+                },
+            "13":
+                {
+                    "quest": "O que Deus criou no terceiro dia da Criação?",
+                    "resp": "Separou a terra das águas e criou as plantas e as árvores."
+                },
+            "14":
+                {
+                    "quest": "O que Deus fez no sétimo dia da Criação?",
+                    "resp": "Deus descansou de sua obra."
+                },
+            "15":
+                {
+                    "quest": "Quais são os pontos cardeais?",
+                    "resp": "Norte, Sul, Leste, Oeste."
+                },
+            "16":
+                {
+                    "quest": "Faça o nó Direito.",
+                    "resp": "Nó direito."
+                }
+        },
+    "pes": 
+        {
+            "0":
+                {
+                    "quest": "Recite a Lei do Desbravador:",
+                    "resp": "A lei do Desbravador ordena-me: Observar a devoção matinal; Cumprir fielmente a parte que me corresponde; Cuidar de meu corpo; Manter a consciência limpa; Ser cortês e obediente; Andar com reverência na casa de Deus; Ter sempre um cântico no coração; Ir aonde Deus mandar"
+                },
+            "1":
+                {
+                    "quest": "Sobre as regras dos alimentos considerados comestíveis e não comestíveis, qual é a regra dos animais da terra que podemos comer?",
+                    "resp": "Podemos comer todos aqueles que ruminam e tem casco fendido."
+                },
+            "2":
+                {
+                    "quest": "Dos animais que vivem nas águas, podemos comer aqueles que possuem o que?",
+                    "resp": "Barbatanas e escamas."
+                },
+            "3":
+                {
+                    "quest": "O que significa pressão de grupo?",
+                    "resp": "É a influência que grupos de pares exercem sobre os membros individualmente, por meio de exigências implícitas ou explícitas, para a conformidade das atividades, crenças, ou normas do grupo."
+                },
+            "4":
+                {
+                    "quest": "Como o Clube de Desbravadores pode ser útil a comunidade?",
+                    "resp": "Prestando socorros em desastres naturais, participando ativamente de campanhas comunitárias e de ajuda aos carentes. Visitam hospitais, abrigos, orfanatos e asilos."
+                },
+            "5":
+                {
+                    "quest": "Cite alguns malefícios do álcool.",
+                    "resp": "Causa cirrose hepática, câncer, hipertensão, infarto, AVC, diabetes mellitus, pancreatite."
+                },
+            "6":
+                {
+                    "quest": "Cite 2 segredos para um bom acampamento.",
+                    "resp": "Fazer um bom planejamento das atividades, financeiro e estrutural; escolher bem o local; segurança no acampamento; Previsão do tempo; organização prévia do cardápio de refeições e garantir água potável; estar com a maleta de primeiros socorros."
+                },
+            "7":
+                {
+                    "quest": "Qual é o significado espiritual da Constelação de Órion?",
+                    "resp": "Significa que a santa cidade de Deus virá por lá."
+                },
+            "8":
+                {
+                    "quest": "Cite alguns itens necessários para uma caminhada.",
+                    "resp": "Cantil com água potável; Protetor solar, óculos de sol/ boné; Lanche extra; Tênis; meias grossas; Calça, camisa e blusa confortáveis."
+                },
+            "9":
+                {
+                    "quest": "Para que servem os espinhos dos cactos?",
+                    "resp": "Para a função de respiração e transpiração, além de proteção."
+                },
+            "10":
+                {
+                    "quest": "Qual a difererênça entre cactos e suculentas",
+                    "resp": "Cactos possuem espinho e frutos, todo cacto é uma suculenta, mas nem sempre uma suculenta é um cacto, suculentas não possuem espinhos ou frutos"
+                }
+        },
+    "pio": 
+        {
+            "0":
+                {
+                    "quest": "O que é cristianismo?",
+                    "resp": "Pessoas que creem em Jesus como seu Salvador e querem viver sua vida o mais próximo do que Jesus viveu."
+                },
+            "1":
+                {
+                    "quest": "Cite 3 características de um verdadeiro cristão.",
+                    "resp": "Amar a Deus em primeiro lugar e aos outros; obedece a Palavra de Deus; Cuida da família; Não se envergonha do evangelho; É misericordioso; É gentil; Não tem ídolos; Não se satisfaz com a maneira de viver desse mundo e etc."
+                },
+            "2":
+                {
+                    "quest": "Quais as vantagens de um estilo de vida adventista de acordo com o que a Bíblia ensina?",
+                    "resp": "Uma pessoa que se se alimenta bem e corretamente, está mais segura e menos doente. Se esta pessoa se exercita regularmente estará mais disposta para as atividades do dia-a-dia. Se, além disso, esta pessoa também confia em Deus, ela passa por menos estresse, menos preocupações e menos desgastes."
+                },
+            "3":
+                {
+                    "quest": "Sobre o que trata O Sermão da Montanha?",
+                    "resp": "O Sermão da Montanha mostra como o cristão deve viver."
+                },
+            "4":
+                {
+                    "quest": "Qual é o alvo dos Desbravadores?",
+                    "resp": "A mensagem do advento a todo o mundo em minha geração."
+                },
+            "5":
+                {
+                    "quest": "Qual é o lema dos Desbravadores?",
+                    "resp": "O amor de Cristo nos motiva"
+                },
+            "6":
+                {
+                    "quest": "O que é autoestima?",
+                    "resp": "Autoestima é a qualidade que pertence ao indivíduo satisfeito com a sua identidade, ou seja, uma pessoa dotada de confiança e que valoriza a si mesmo."
+                },
+            "7":
+                {
+                    "quest": "Por qual razão Deus mandou o dilúvio sobre a terra?",
+                    "resp": "Deus destruiu a Sua criação no dilúvio porque a maldade do homem atingiu proporções terríveis."
+                }
+        },
+    "exc": 
+        {
+            "0":
+                {
+                    "quest": "Recite o Objetivo JA.",
+                    "resp": "Salvar do pecado e guiar no serviço."
+                },
+            "1":
+                {
+                    "quest": "Cite pelo menos 5 apostolos de Jesus",
+                    "resp": "Simão, chamado Pedro; André (irmão de Pedro); Tiago, filho de Zebedeu; João, irmão de Tiago (o apóstolo João); Filipe (não confundir com o Filipe evangelista citado no livro de Atos); Bartolomeu (também chamado de Natanael); Tomé (também chamado de Dídimo); Mateus, o publicano (também chamado de Levi); Tiago, filho de Alfeu; Judas, também chamado Lebeu (ou Judas Tadeu); Simão, o zelote; Judas Iscariotes (aquele que traiu Jesus);"
+                },
+            "2":
+                {
+                    "quest": "Cite quais são os Frutos do Espírito",
+                    "resp": "Mas o fruto do Espírito é amor, alegria, paz, paciência, amabilidade, bondade, fidelidade, mansidão e domínio próprio. Contra essas coisas não há lei. Gálatas 5:22-23"
+                },
+            "3":
+                {
+                    "quest": "Qual é o papel da pessoa do Espírito Santo na Trindade",
+                    "resp": "O Espírito Santo é uma das pessoas da Trindade. É Ele que nos traz a motivação para seguir os passos de Cristo, nos convence que Cristo é o Salvador, que a mensagem da Bíblia é verdadeira e ainda devemos segui-la. Segundo o Espírito de Profecia, quando lemos a lição da escola sabatina, a Bíblia ou até mesmo o informe no sábado pela manhã estamos deixando o Espírito Santo agir pois não somos capazes de ter a motivação de realizar trabalhos para Deus ou ainda ter crescimento em Cristo se não fosse por meio do Espírito de Deus. Ele trabalha na mente, atravessa todas as barreiras do nosso coração para fazer com que aceitemos o evangelho e siga os passos do Pai. Por isso, nosso corpo deve estar limpo para conseguirmos compreender a comunicação de Deus para conosco. Afinal, o nosso corpo é Templo do Espírito e devemos cuidar dele."
+                },
+            "4":
+                {
+                    "quest": "Execute corretamente o movimento de direita volver",
+                    "resp": "Em posição de sentido, erguer a ponta do pé direito e empurrar o corpo para o lado com a ponta do pé esquerdo até completar 90° para a direita, ao final juntar o pé esquerdo ao pé direito"
+                },
+            "5":
+                {
+                    "quest": "Execute corretamente o movimento de esquerda volver",
+                    "resp": "Em posição de sentido, erguer a ponta do pé esquerdo e empurrar o corpo para o lado com a ponta do pé direio até completar 90° para a esquerda, ao final juntar o pé direito ao pé esquerdo"
+                },
+            "6":
+                {
+                    "quest": "Execute corretamente o movimento de oitavo a direita volver",
+                    "resp": "Em posição de sentido, erguer a ponta do pé direito e empurrar o corpo para o lado com a ponta do pé esquerdo até completar 45° para a direita, ao final juntar o pé esquerdo ao pé direito"
+                },
+            "7":
+                {
+                    "quest": "Execute corretamente o movimento de oitavo a esquerda volver",
+                    "resp": "Em posição de sentido, erguer a ponta do pé esquerdo e empurrar o corpo para o lado com a ponta do pé direio até completar 45° para a esquerda, ao final juntar o pé direito ao pé esquerdo"
+                },
+            "8":
+                {
+                    "quest": "Execute corretamente o movimento de meia volta volver",
+                    "resp": "Em posição de sentido, erguer a ponta do pé esquerdo e empurrar o corpo para o lado com a ponta do pé direio até completar 180° para a esquerda, ao final juntar o pé direito ao pé esquerdo"
+                },
+            "9":
+                {
+                    "quest": "Execute corretamente o movimento de frente para a direita",
+                    "resp": "Em posição de descansar, saltar em um giro de 90° para a direita, ao final gritar firme a palavra 'RÁ'."
+                },
+            "10":
+                {
+                    "quest": "Execute corretamente o movimento de frente para a esquerda",
+                    "resp": "Em posição de descansar, saltar em um giro de 90° para a esquerda, ao final gritar firme a palavra 'RÁ'."
+                },
+            "11":
+                {
+                    "quest": "Execute corretamente o movimento de frente para a retaguarda",
+                    "resp": "Em posição de descansar, saltar em um giro de 180° para a retaguarda, ao final gritar firme a palavra 'RÁ'."
+                }
+        },
+    "gui": 
+        {
+            "0":
+                {
+                    "quest": "Recite o Voto de fidelidade a Bíblia",
+                    "resp": "Prometo fidelidade à Bíblia, à sua mensagem, de um Salvador crucificado ressurreto e prestes a vir, doador de vida e liberdade à todos que nEle creem."
+                },
+            "1":
+                {
+                    "quest": "Nas 3 mensagens angélicas, o que diz o Segundo Anjo?",
+                    "resp": "Seguiu-se outro anjo, o segundo, dizendo: Caiu, caiu a grande Babilônia que tem dado a beber a todas as nações do vinho da fúria da sua prostituição"
+                },
+            "2":
+                {
+                    "quest": "Nas 3 mensagens angélicas, o que diz o Primeiro Anjo?",
+                    "resp": "Vi outro anjo voando pelo meio do céu, tendo um evangelho eterno para pregar aos que assentam sobre a Terra, e a cada nação e tribo e língua e povo, dizendo em grande voz: 'Temei a Deus e dai -lhe glória, pois é chegada a hora do seu juízo e adorem aquele que fez o céu, a terra e o mar e as fontes das águas'"
+                },
+            "3":
+                {
+                    "quest": "Nas 3 mensagens angélicas, o que diz o Terceiro Anjo?",
+                    "resp": "Terceiro anjo dizendo com grande voz: Se alguém adorar a besta, e a sua imagem, e receber o sinal na sua testa, ou na sua mão, Também este beberá do vinho da ira de Deus, que se deitou, não misturado, no cálice da sua ira; e será atormentado com fogo e enxofre diante dos santos anjos e diante do Cordeiro. E a fumaça do seu tormento sobe para todo o sempre; e não têm repouso nem de dia nem de noite os que adoram a besta e a sua imagem, e aquele que receber o sinal do seu nome. Aqui está a paciência dos santos; aqui estão os que guardam os mandamentos de Deus e a fé em Jesus."
+                },
+            "4":
+                {
+                    "quest": "Cite pelo menos 4 das igrejas do Apocalipse",
+                    "resp": "Éfeso; Esmirna; Pérgamo; Tiatira; Sardes; Filadélfia; Laodicéia."
+                },
+            "5":
+                {
+                    "quest": "Cite pelo menos 5 das pedras preciosas dos fundamentos da Nova Jerusalém",
+                    "resp": "Jaspe; Safira; Calcedônia; Esmeralda; Sardônio; Sádio; Crisólito; Berilo; Topázio; Crisóprazo; jacinto; Ametista;."
+                },
+            "6":
+                {
+                    "quest": "Quais os móveis se encontravam no pátio do Santuário?",
+                    "resp": "Altar de holocausto; Pia."
+                },
+            "7":
+                {
+                    "quest": "Quais os móveis se encontravam no Lugar Santo do Santuário?",
+                    "resp": "Mesa dos Pães da Proposição; Candelábro; Altar de Incenso."
+                },
+            "8":
+                {
+                    "quest": "Qual móvel se encontrava no Lugar Santíssimo do Santuário?",
+                    "resp": "Arca do Concerto."
+                },
+            "9":
+                {
+                    "quest": "Que itens continham dentro da Arca do Concerto?",
+                    "resp": "Tábuas com os Dez Mandamentos, A Vara de Arão que Floreceu, um punhado de maná"
+                },
+            "10":
+                {
+                    "quest": "O que o capítulo 7 do lívro 'O Desejado de Todas as Nações' aborda?",
+                    "resp": "Sobre a Infância de Jesus e a importância do estudo da natureza"
+                },
+            "11":
+                {
+                    "quest": "Qual a diferença entre Ecologia e Conservação Ambiental?",
+                    "resp": "Ecologia é estudo dos ecossistemas e Conservação ambiental é o estudo de formas de como proteger os ecossistemas de hoje."
+                },
+            "12":
+                {
+                    "quest": "O que significa o termo 'morte' de um lago ou rio?",
+                    "resp": "É um rio onde não há mais vida, o teor de oxigênio é zero. Isso ocorre por fatores como: fábricas perto contaminando o ar e a água, empresas químicas descarregando na água, fazendas uso de inseticidas, etc."
+                },
+            "13":
+                {
+                    "quest": "O que I Coríntios 6:19, 20 diz sobre a mordomia do corpo?",
+                    "resp": "O nosso corpo é o templo do Espírito Santo."
+                },
+            "14":
+                {
+                    "quest": "O que quer dizer a palavra 'Dízimo'",
+                    "resp": "Um décimo de tudo o que ganhamos ou produzimos."
+                }
+        }
+}
